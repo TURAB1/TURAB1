@@ -1,3 +1,7 @@
+
+
+<h1><img src="https://github.com/TURAB1/TURAB1/blob/main/photo.jpg" height="180"></h1>
+
 ### Hi there 👋
 
 I'm chris , a software developer based in seoul.
