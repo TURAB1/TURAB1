@@ -28,7 +28,5 @@ I'm chris , a software developer based in seoul.
 
 
 <br/>
-https://www.youtube.com/watch?v=DWFs6aqknqw&ab_channel=MagdelineHuang
 
-https://github.com/Ileriayo/markdown-badges
-https://gprm.itsvg.in/
+
