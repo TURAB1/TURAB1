@@ -1,6 +1,6 @@
 
 
-<h1><img src="https://github.com/TURAB1/TURAB1/blob/main/photo.jpg" height="180"></h1>
+<h1><img src="https://github.com/user-attachments/assets/e7da72ae-4d04-4bae-9ee3-b793838b16db" height="180"></h1>
 
 ### Hi there 👋
 
